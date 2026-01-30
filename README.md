@@ -14,9 +14,9 @@ can be shared here. Make sure to communicate so that you limit merge conflicts.
 * `data` Shared dataset can be shared here. Note, do not put large datasets on GitHub. Speak to the organizers if you 
 need to share large datasets. 
 
-## Project Name
+## Predicting Pseudo-nitzschia blooms in California
 
-## One-line Description
+## Combine remote sensing reflectance from PACE with environmental data from CA piers to predict Pseudo-nitzschia abundances.
 
 ## Planning
 
@@ -24,18 +24,17 @@ need to share large datasets.
 
 | Name                | Role                |
 |---------------------|---------------------|
-| Participant 1       | Project Facilitator |
-| Participant 2       | Participant         |
-| Participant 3       | Participant         |
+| Deborah Kutner      | Project Leader      |
+| Dale Robinson       | Mentor              |
+| Mathieu Richaud     | Participant         |
+| Bikas Gupta         | Participant         |
+| Keshav Dubedi       | Participant         |
 
 ## Planning
 
-* Initial idea: "short description"
-* Ideation jam board: Add link
-* Ideation Presentation: Add link
-* Slack channel: fp25_proj_name
-* Project google drive: Add link
-* Final presentation: Add link
+* Slack channel: proj-hab-prediction-west
+* Project google drive: [https://drive.google.com/drive/folders/1Pi_blfU9VIJd_XTchtc4l_o8IbKUTkN2]
+* Final presentation: [https://docs.google.com/presentation/d/1Q_NS1ltG40PJbHnEcv1bN6sXlXdVRBD5iaj9poQb3Us/edit?slide=id.p#slide=id.p]
 
 ## Background
 
