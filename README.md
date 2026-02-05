@@ -1,4 +1,4 @@
-# fpyy_proj_template
+# fp26_hab_prediction
 
 Template for starting Fish-PACE project repos. 
 
