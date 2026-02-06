@@ -17,8 +17,8 @@
 ## Planning
 
 * Slack channel: proj-hab-prediction-west
-* Project google drive: [https://drive.google.com/drive/folders/1Pi_blfU9VIJd_XTchtc4l_o8IbKUTkN2]
-* Final presentation: [https://docs.google.com/presentation/d/1Q_NS1ltG40PJbHnEcv1bN6sXlXdVRBD5iaj9poQb3Us/edit?slide=id.p#slide=id.p]
+* Project google drive: https://drive.google.com/drive/folders/1Pi_blfU9VIJd_XTchtc4l_o8IbKUTkN2
+* Final presentation: https://docs.google.com/presentation/d/1Q_NS1ltG40PJbHnEcv1bN6sXlXdVRBD5iaj9poQb3Us/edit?slide=id.p#slide=id.p
 
 ## Background
 
